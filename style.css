@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    background-color:yellow;
+}
+.header:hover{
+    background-color: yellow;
+    display:flex ;
+    justify-content: space-between;
+    transform: scale(1,2);
+    
+}
+body{
+    background-color: #000000;
+
+    background-size: cover;
+}
+h3{
+    color: #ffffff;
+    font-family: "Comic Sans";
+}
+.para{
+    color:#00ff44;
+    padding: 30px;
+    font-family: "Comic Sans";
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color: green;
+}
